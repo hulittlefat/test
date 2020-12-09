@@ -1,3 +1,3 @@
 <?php
 phpinfo();
-iiiii
+$name = $_POST["name"]
